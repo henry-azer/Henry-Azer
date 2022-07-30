@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-azer&label=Profile%20views&color=0e75b6&style=flat" alt="henry-azer" /> </p>
 
-- 🔭 I’m currently working on **Back-End.**
+- 🔭 I’m currently working at **Ntsal**
 
-- 💬 Ask me about **Java or React.**
+- 💬 Ask me about **Java or React/Vue.**
 
 - 📫 How to reach me **henryazer@outlook.com**
 
