@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henry Azer</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-azer&label=Profile%20views&color=0e75b6&style=flat" alt="henry-azer" /> </p>
-
 - 🔭 I’m currently working at **Ntsal**
 
 - 💬 Ask me about **Java or React/Vue.**
