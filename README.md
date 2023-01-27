@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Ntsal**
 
-- 💬 Ask me about **Java or React/Vue.**
+- 💬 Ask me about **Java or Flutter or React/Vue**
 
 - 📫 How to reach me **henryazer@outlook.com**
 
