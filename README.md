@@ -5,4 +5,4 @@
 
 - 📫 How to reach me **henryazer@outlook.com**
 
-- 💬 Ask me about **Java or Flutter or React.js/Vue.js**.
+- 💬 Ask me about **Java or Flutter or React.js/Vue.js**
